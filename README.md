@@ -51,7 +51,7 @@ done
 node git-auto-pull.js relative/Path/To/Your/Project [cmds]
 ```
 
-[**cmds**] : Optionnal parameters.
+[**cmds**] : Optional parameters.
 You can add some commands to be executed in the given order after the git pull.
 The commands are executed from the given `relative/Path/To/Your/Project` project directory.
 
