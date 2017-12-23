@@ -17,7 +17,7 @@ npm install git-auto-pull
 or
 
 ```
-git clone https://github.com/Keenpoint/git-auto-pull
+git clone https://github.com/InnovativeInventor/git-auto-pull
 ```
 
 #### Prepare it
